@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="CustomKeyboard-Simplified-CAD-NoSplit">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/CAD/CustomKeyboard-Simplified-CAD-NoSplit.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

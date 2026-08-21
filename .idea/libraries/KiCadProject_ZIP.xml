@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="KiCadProject_ZIP">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/KiCad/KiCadProject_ZIP.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
