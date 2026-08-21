@@ -1,3 +1,6 @@
 [submodule "firmware"]
 	path = firmware
 	url = https://github.com/anvaymathur/qmk_firmware.git
+[submodule "firmware/qmk"]
+	path = firmware/qmk
+	url = https://github.com/anvaymathur/qmk_firmware.git
