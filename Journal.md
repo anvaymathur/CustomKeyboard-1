@@ -1,4 +1,4 @@
-|      Title      | ****Anvay Custom Keeb****                                                             |
+|      Title      | ****Atlas****                                                                         |
 |:---------------:|:--------------------------------------------------------------------------------------|
 |   **Author**    | Anvay Mathur                                                                          |
 | **Description** | A 100% layout custom keyboard with **104 keys** and **1 rotary encoder volume knob**. |
@@ -176,7 +176,7 @@ The bottom case was pretty thin because the top case itself had the needed space
 * I also added the necessary mounting holes.
 ![MountingHolesBottom.png](Assets/MountingHolesBottom.png)
 * Finished case:
-![FullCase.png](Assets/FullCase.png)
+![FinalCaseGoodPicture.png](Assets/FinalCaseGoodPicture.png)
 * I did not split it yet, not sure if I need to do that before or after submitting because I am in a time crunch, and it was 2am.
 
 # Day 8 - Firmware & BOM - 9 hours - Aug 20th, 2026 (written on the 21st morning)
@@ -187,7 +187,7 @@ The bottom case was pretty thin because the top case itself had the needed space
 * I initially wanted to have it so all the firmware lives in my own repo, but after messing around for 2 hours I learned the hard way that QMK doesn't allow that.
 So I decided to fork the qmk repo and write my software there and add a submodule to that repo in this repo. This made it much faster.
 * For the code itself, I had to write my own matrix scanning algorithm because QMK does not natively have that for an I/O expander that uses SPI communication.
-* I used Gemini to assist with the code as I have never used C before nor have I worked with QMK or any keyboard firmware libraries.
+* I used Gemini to assist with the code as I have never used C before nor have I worked with QMK or any keyboard firmware libraries, but I still wrote the code mostly myself.
 
 #### BOM:
 * Around 10:30 after finishing the firmware I decided to work on the BOM. I have never used AliExpress in my life before but my friend helped me find cheaper options.

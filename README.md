@@ -1,6 +1,6 @@
-# Anvay Custom Keeb
+# Atlas
 
-This keyboard is a custom 100% layout keyboard with **104 keys** and **1 rotary encoder volume knob**. It uses QMK firmware and was
+Atlas is a custom 100% layout keyboard with **104 keys** and **1 rotary encoder volume knob**. It uses QMK firmware and was
 built to learn more about custom PCB building and learn tools like KiCad as well as learn and practice soldering.
 
 I built this project to participate in [Hack Club's Keeb YSWS](https://keeb.hackclub.com/) and used the guide to build this project.
@@ -19,7 +19,7 @@ ________________________________
 _______________________________
 Built to be assembled using 16 M2 screws and brass heat-set inserts. 3 separate parts, the plate for the switches, 
 the bottom frame, and the top frame.
-![FullCase.png](Assets/FullCase.png)
+![FinalCaseGoodPicture.png](Assets/FinalCaseGoodPicture.png)
 
 
 ## PCB
