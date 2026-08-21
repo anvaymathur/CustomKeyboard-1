@@ -198,22 +198,3 @@ I decided to put the sale prices but for some components I picked slightly (like
 * The total came to $203.36 which was much higher than I expected, but I hope its low enough to get the grant.
 * I made the whole thing in Google Sheets and then exported it as a csv file. Here is the link to the original BOM: https://docs.google.com/spreadsheets/d/1LunAD5pZXqozTI3veBID0ZXqFftMwYiq4rUHlNX5dX8/edit?usp=sharing
 * The csv does not include the extra notes as that was not fitting in the csv structure and could have been misleading.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
