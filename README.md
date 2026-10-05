@@ -8,8 +8,8 @@ I built this project to participate in [Hack Club's Keeb YSWS](https://keeb.hack
 ## Features
 ________________________________
 * 3D Printed Case
-* EC11 Rotary Encoder for volume control, press down to mute/unmute you're mic.
-* 104 Akko V3 Pro Cream Blue 5 pin Switches 
+* EC11 Rotary Encoder for volume control; press down to mute/unmute your mic.
+* 104 Akko V3 Pro Cream Blue 5-pin Switches 
 * Uses an I/O expander
 * Custom PCB
 * 6-degree angle to make typing easier
@@ -17,8 +17,8 @@ ________________________________
 
 ## CAD Model
 _______________________________
-Built to be assembled using 16 M2 screws and brass heat-set inserts. 3 separate parts, the plate for the switches, 
-the bottom frame, and the top frame.
+Built to be assembled using 16 M2 screws and brass heat-set inserts. 3 separate parts: the plate for the switches, 
+the bottom frame, and the top frame. It is further split into 3 parts for the bottom frame, 3 parts for the plate, and 4 parts for the top frame. This allows the parts to be 3D printed.
 ![FinalCaseGoodPicture.png](Assets/FinalCaseGoodPicture.png)
 
 
