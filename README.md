@@ -38,6 +38,7 @@ This keyboard uses QMK Firmware (written in C). It has a custom matrix scanning 
 * Rotary encoder changes volume
 * Rotary encoder push button mutes/unmutes mic.
 
+[firmware source code](https://github.com/anvaymathur/qmk_firmware/tree/4b7de7cd5142fd57f36f95716802796573a3fc02)
 # Bill of Materials (BOM)
 ____________________________________________
 Here is everything that you will need to make the keyboard: [Click here](https://docs.google.com/spreadsheets/d/1LunAD5pZXqozTI3veBID0ZXqFftMwYiq4rUHlNX5dX8/edit?usp=sharing)
