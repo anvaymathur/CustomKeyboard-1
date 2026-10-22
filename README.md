@@ -15,7 +15,7 @@ ________________________________
 * 6-degree angle to make typing easier
 * USB-C Wired Connection
 
-## CAD Model
+## [CAD Model](https://cad.onshape.com/documents/d2912928b6921b4f567f19d4/w/3cc81b6e466839704e6b1167/e/2a88bdb93463c9c371bdf912?renderMode=0&uiState=6ad9732df5f562c51b7fd6f6)
 _______________________________
 Built to be assembled using 16 M2 screws and brass heat-set inserts. 3 separate parts: the plate for the switches, 
 the bottom frame, and the top frame. It is further split into 3 parts for the bottom frame, 3 parts for the plate, and 4 parts for the top frame. This allows the parts to be 3D printed.
